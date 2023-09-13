@@ -31,3 +31,38 @@ else
 {
     print("I'm not doing well in this class")
 }
+
+//Part 5: Own your Own Problem Set #1
+var basketOne = 5
+var basketTwo = 8
+if basketOne > basketTwo
+{
+    print("I want this basket")
+}
+else
+{
+    print("I do not want this basket, please give me the other one")
+}
+//Part 5: Own your Own Problem Set #2
+var personOne = "The answer is true"
+var personTwo = "The answer is true"
+if personOne == personTwo
+{
+    print(personOne + personTwo)
+    print("You are both correct")
+}
+else
+{
+    print("Both of you have different answers")
+}
+//Part 5: Own your Own Problem Set #3
+var key = false
+var lock = true
+if key == lock
+{
+    print("The door unlocks.")
+}
+else
+{
+    print("The door is locked. Maybe there is a key in the area.")
+}
