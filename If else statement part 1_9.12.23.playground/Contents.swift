@@ -43,18 +43,15 @@ else
 {
     print("I do not want this basket, please give me the other one")
 }
+
 //Part 5: Own your Own Problem Set #2
-var personOne = "The answer is true"
-var personTwo = "The answer is true"
-if personOne == personTwo
+var thoughtsOne = "I want to eat ramen,"
+var thoughtsTwo = " but I also want to eat steak."
+if thoughtsOne == "I want to eat ramen,"
 {
-    print(personOne + personTwo)
-    print("You are both correct")
+    print(thoughtsOne + thoughtsTwo)
 }
-else
-{
-    print("Both of you have different answers")
-}
+
 //Part 5: Own your Own Problem Set #3
 var key = false
 var lock = true
